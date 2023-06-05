@@ -1,5 +1,7 @@
 """
 Calificación del laboratorio
+
+Hecho por Juan Pablo Buitrago Diaz          cc1000.206.552
 -----------------------------------------------------------------------------------------
 """
 

@@ -1,3 +1,4 @@
+-- database: /path/to/database.db
 CREATE TABLE tbl0 (
     K0  CHAR(1),
     c01 INT,
